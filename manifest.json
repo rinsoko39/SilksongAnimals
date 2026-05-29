@@ -1,0 +1,9 @@
+{
+    "name": "SilksongAnimals",
+    "version_number": "0.0.0",
+    "website_url": "https://github.com/rinsoko39/SilksongAnimals",
+    "description": "野兽缚丝时自动播放 Animals",
+    "dependencies": [
+        "silksong_modding-BepInExPack_Silksong-1.0.1"
+    ]
+}
